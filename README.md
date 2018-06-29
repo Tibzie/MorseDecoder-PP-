@@ -14,5 +14,5 @@ As part of requirement, I was the **driver** and my fellow trainee was the **nav
 Example Output
 ---
 
-![alt text](https://imgur.com/a/ZxZ9N2J)
+![expectedoutput](https://user-images.githubusercontent.com/38702209/42117411-36583cd0-7bf4-11e8-8631-6f3f4b017533.jpg)
 
